@@ -7,4 +7,5 @@ if basedir not in sys.path:
 #利用anaconda 安装fastp 目前版本为20.0
 fastp = ''
 BWA = ''
+boite = ''
 
