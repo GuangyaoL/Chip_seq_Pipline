@@ -1,0 +1,15 @@
+software: {
+  QC: { fastp: ''
+  },
+  MAPPing: { BWA: '',
+             BWOTIE: ''
+  },
+}
+Info: {
+        adapter:{adapter_sequence_r1: AGATCGGAAGAGCACACGTCTGAACTCCAGTCA,
+                 adapter_sequence_r2: AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT
+        },
+        shell_heaader: '',
+        LOG_Level: INFO,
+
+}
